@@ -1,0 +1,25 @@
+// Name, damage, FP drain multipliers
+Disruptor (Sniper), 28, ,
+Disruptor, 24, , 
+Disruptor (Splash), 28, ,
+Bowcaster, 30, , 
+Bowcaster (Charged), 30 , ,
+Droideka Blasters, 25,,
+Clone Rifle, 20,,
+Bryar Pistol (Level 1), 26,,
+Bryar Pistol (Level 2), 28,,
+Bryar Pistol (Level 3), 40,,
+Bryar Pistol (Charged), 28,,
+Westars, 28,,
+Westars (charged), 28,,
+SBD Arm Blaster,26,,
+ARC Pistols, 28,,
+M5 Rifle, 24,,
+M5 Sniper, 47
+EE3 (Primary), 28,,
+EE3 (Sniper), 100,,
+T21 (Primary), 60, ,
+T21 (Secondary), 26, 1.25,
+E11 (Primary), 28, 1.516
+E11 (Secondary) 24, 2.0
+Wrist Laser, 50, 1.9
