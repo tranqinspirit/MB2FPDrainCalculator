@@ -20,6 +20,6 @@ EE3 (Sniper), 100, 1.5, 1.5
 T21 (Primary), 60, 1.5, 1.6
 T21 (Secondary), 26, 1.25, 1.25
 E11 (Primary), 28, 1.516, 1.516
-E11 (Secondary) 24, 2.0, 1.7
+E11 (Secondary), 24, 2.0, 1.7
 Wrist Laser, 50, 1.9, 2.2
 Shotgun, 18, 1.44, 1.44
