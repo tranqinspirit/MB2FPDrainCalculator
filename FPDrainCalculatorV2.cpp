@@ -521,7 +521,7 @@ void initializeWeaponInfo(std::vector<Weapon> &WeaponList)
 {
 	std::fstream weaponFile;
 
-	weaponFile.open("WeaponStats.txt");
+	weaponFile.open("FPDrainCalculatorV2-WeaponStats.txt");
 	while (!weaponFile.eof())
 	{
 		std::string Name, baseDamage, betaFPDrain, liveFPDrain;
