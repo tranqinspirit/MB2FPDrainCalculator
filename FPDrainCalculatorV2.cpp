@@ -273,7 +273,7 @@ int main()
 
 		if (CustomDistance)
 		{
-			std::cout << "(Distance Custom) Blocking: " << FPDrainsIDR(publicFPDrains, nForcePowerNeededToBlock, CustomDistance, baseDamage, true, SaberDefenseLevel)
+			std::cout << "(Distance Custom: " << CustomDistance << ") Blocking: " << FPDrainsIDR(publicFPDrains, nForcePowerNeededToBlock, CustomDistance, baseDamage, true, SaberDefenseLevel)
 				<< " | Not Blocking: " << FPDrainsIDR(publicFPDrains, nForcePowerNeededToBlock, CustomDistance, baseDamage, false, SaberDefenseLevel) << std::endl;
 		}
 
