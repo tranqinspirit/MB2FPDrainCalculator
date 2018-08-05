@@ -283,8 +283,6 @@ int main()
 
 	// Gotta think about calculating stuff like draining from full to zero FP based on firing times and FP regen and such but that's for after the baseline is all done
 	// Probably even a completely separate thing from all of the above (would need to calculate distance/FP drain > movement + FP regen to zero..
-	system("pause");
-
 	return 0;
 }
 
